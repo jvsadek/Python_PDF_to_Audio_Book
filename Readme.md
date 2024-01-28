@@ -1,10 +1,10 @@
 # Simple Python PDF to Audio converter
 
-![Contributors](https://img.shields.io/github/contributors/jvsadek/TheMost_Dangerous_Writing_App_Flask?style=plastic)
-![Forks](https://img.shields.io/github/forks/jvsadek/TheMost_Dangerous_Writing_App_Flask)
-![Stars](https://img.shields.io/github/stars/jvsadek/TheMost_Dangerous_Writing_App_Flask)
-![Licence](https://img.shields.io/github/license/jvsadek/TheMost_Dangerous_Writing_App_Flask)
-![Issues](https://img.shields.io/github/issues/jvsadek/TheMost_Dangerous_Writing_App_Flask)
+![Contributors](https://img.shields.io/github/contributors/jvsadek/Python_PDF_to_Audio_Book?style=plastic)
+![Forks](https://img.shields.io/github/forks/jvsadek/Python_PDF_to_Audio_Book)
+![Stars](https://img.shields.io/github/stars/jvsadek/Python_PDF_to_Audio_Book)
+![Licence](https://img.shields.io/github/license/jvsadek/Python_PDF_to_Audio_Book)
+![Issues](https://img.shields.io/github/issues/jvsadek/Python_PDF_to_Audio_Book)
 
 ## 
 ### Description

@@ -4,8 +4,8 @@ from pydub import AudioSegment
 from pathlib import Path
 import os
 
-file = open("Resume-Joseph-Sadek_2024.pdf", 'rb')
-# file = open("demo.pdf", 'rb')
+
+file = open("demo.pdf", 'rb')
 pdf_reader = PdfReader(file)
 num_pages = len(pdf_reader.pages)
 print(num_pages)
